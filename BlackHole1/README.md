@@ -22,7 +22,7 @@
 
 This is the first machine in `BlackHole` series, it is designed to be a boot2root ctf so you need to become root on this machine and
 
-get the flag under `/root/root.txt`, it is supposed to be an easy box depending on your skill set
+get the flag under `/root/root.txt`, it is supposed to be an easy box depending on your skill set.
 
 Difficulty: Easy-Medium
 

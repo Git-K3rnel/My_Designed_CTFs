@@ -39,3 +39,10 @@ Difficulty: Easy-Medium
 
 - **DHCP service:** Enabled
 - **IP address:** Automatically assign
+
+---
+
+### Screenshots
+
+![image](https://github.com/Git-K3rnel/My_Designed_CTFs/assets/127470407/068c0e69-4dbc-474c-b67f-34d596d7b54d)
+
